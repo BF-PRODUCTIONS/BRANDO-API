@@ -1,0 +1,27 @@
+{
+    "name": "Brando API",
+    "version": "1.0.0",
+    "description": "API open source gigante, gratuita e completa",
+    "endpoints": [
+        {
+            "endpoint": "/ask",
+            "method": "POST",
+            "description": "Envia pergunta e recebe resposta"
+        },
+        {
+            "endpoint": "/info",
+            "method": "GET",
+            "description": "Recebe informa\u00e7\u00f5es da API"
+        },
+        {
+            "endpoint": "/status",
+            "method": "GET",
+            "description": "Status da API"
+        },
+        {
+            "endpoint": "/examples",
+            "method": "GET",
+            "description": "Exemplos de uso"
+        }
+    ]
+}

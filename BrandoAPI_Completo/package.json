@@ -1,0 +1,10 @@
+{
+    "name": "brando-api-project-completo",
+    "version": "1.0.0",
+    "description": "Projeto Brando API gigante, bonito e completo",
+    "main": "raiz/index.html",
+    "scripts": {
+        "start": "echo 'Abra index.html no navegador'"
+    },
+    "dependencies": {}
+}
